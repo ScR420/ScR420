@@ -9,4 +9,4 @@
 
 
 ### 🌱 My latest projects
-- [ScR420/ByteTube](https://github.com/ScR420/2DJumpRun) - A 2D Jump and Run Game
+- [ScR420/2DJumpRun](https://github.com/ScR420/2DJumpRun) - A 2D Jump and Run Game
