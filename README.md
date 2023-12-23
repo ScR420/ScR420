@@ -1,31 +1,29 @@
-### Hi there 👋
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=M4rshe1&show_icons=true&theme=tokyonight" />
+</a></p>
 
+<p align="center"><a href="https://wakatime.com/@ScR420">
+<a href="https://wakatime.com/@ScR420">
+  <img align="center" width="400" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4rshe1&layout=donut&theme=tokyonight" />
 
+[//]: # (</a>)
 
+[//]: # (  <img align="center" width="400" height="300" src="https://wakatime.com/share/@ScR420/74537e1a-9549-484a-ac48-a7853420da5f.svg" />)
 
+[//]: # (</a>)
+</p>
 
-👷 Check out what I'm currently working on
-M4rshe1/powershell-profile - My Powershell profile
-M4rshe1/share-local - A script to share your local files in an explorer like interface
-M4rshe1/VB_Minesweeper - A small Minesweeper game written in Visual Basic
-🌱 My latest projects
-M4rshe1/share-local - A script to share your local files in an explorer like interface
-M4rshe1/API-HUB - An adjustable api endpoint for all your needs
-M4rshe1/VB_Minesweeper - A small Minesweeper game written in Visual Basic
-📫 How to reach me:
-Youtube : https://www.youtube.com/@ColinHeggli
-Website : https://colin.heggli.dev
-<!--
-**ScR420/ScR420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[//]: # (<p align="center"><a href="https://wakatime.com/@M4rshe1">)
 
-Here are some ideas to get you started:
+[//]: # (  <img align="center" width="400" height="300" src="https://wakatime.com/share/@ScR420/2cdd953e-a702-4f2c-a310-be4f22e66d59.svg" />)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[//]: # (</a>)
+
+[//]: # (<a href="https://wakatime.com/@ScR420">)
+
+[//]: # (  <img align="center" width="400" height="300" src="https://wakatime.com/share/@ScR420/287d3975-1fc0-4085-8038-1c4440f8428a.svg" />)
+
+[//]: # (</a></p>)
+
+### 👷 Check out what I'm currently working on
+
