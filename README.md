@@ -4,14 +4,8 @@
 
 <p align="center"><a href="https://wakatime.com/@ScR420">
 <a href="https://wakatime.com/@ScR420">
-  <img align="center" width="400" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4rshe1&layout=donut&theme=tokyonight" />
+  <img align="center" width="400" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScR420&layout=donut&theme=tokyonight" />
 
-[//]: # (</a>)
-
-[//]: # (  <img align="center" width="400" height="300" src="https://wakatime.com/share/@ScR420/74537e1a-9549-484a-ac48-a7853420da5f.svg" />)
-
-[//]: # (</a>)
-</p>
 
 
 
