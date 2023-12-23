@@ -13,7 +13,6 @@
 [//]: # (</a>)
 </p>
 
-[//]: # (  <img align="center" width="400" height="300" src="https://wakatime.com/share/@ScR420/2cdd953e-a702-4f2c-a310-be4f22e66d59.svg" />)
 
 
 
